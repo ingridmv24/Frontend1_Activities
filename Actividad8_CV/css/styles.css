@@ -1,0 +1,102 @@
+/*Estilos del Index*/
+/*BODY*/
+body{
+    background-color: #b5e8f1;
+    background-image: url("../img/backgound.jpeg");
+    font-family: 'Bree Serif', serif;
+    background-size: contain;
+}
+
+/*Header*/
+header{ /*se centra el logo*/
+    text-align: center;
+}
+
+header img{
+    margin-top: 5px;
+    width: 100px;
+    height: auto;
+}
+
+.sobre-mi{
+    color: rgb(118, 105, 240);
+    font-family: 'Bree Serif', serif;
+    font-size: 30px;
+}
+
+/*Main*/
+main{
+    background-color: #b5e8f1; /*el blanco es cada uno de los espacios donde va haber datos*/
+    margin: 20px; /*para agregar margenes o un espacio alrededor de la pagina*/
+}
+
+.personalData{
+    font-weight: bold;
+}
+
+.dates{
+    font-family: 'Bree Serif', serif;
+    font-weight: bold;
+}
+.pData{
+    margin-left: 80px ;
+}
+
+h1{
+    background-color: #b5e8f1; /*se le aplica un fondo al h1*/
+    color : rgb(118, 105, 240);
+    font-size: 35px;
+    text-align: center;
+}
+
+.separadores{
+    background-color: #b5e8f1;
+    height: 60px;
+}
+
+section p{
+    background-color: #b5e8f1;
+}
+
+h2{
+    background-color: rgb(118, 105, 240);
+    color: #ffffff;
+    font-style: 17px;
+    height: 30px;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+}
+
+/*Footer*/
+footer{
+    background-color: #b5e8f1;
+    color: rgb(118, 105, 240);
+    font-family: 'Bree Serif', serif;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 20px;
+    text-align: center;
+}
+
+/*Estilos de Sobre mi*/
+a.curriculum
+{
+    color: rgb(118, 105, 240);
+    font-family: 'Bree Serif', serif;
+    font-size: 30px;
+}
+#foto-aboutme{
+    text-align: center;
+    margin-top: 5px;
+    width: 100px;
+    height: auto;
+}
+
+section.description{
+    background-color: #b5e8f1;
+    margin: 50px 200px;
+    text-align: center;
+    padding: 50px;
+    
+}
+
