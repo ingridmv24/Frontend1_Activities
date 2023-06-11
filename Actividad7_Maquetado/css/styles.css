@@ -1,0 +1,68 @@
+/*BODY*/
+body{
+    background-color: #E6E6E6;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/*Header*/
+header{ /*se centra el logo*/
+    text-align: center;
+}
+
+/*Main*/
+main{
+    background-color: white; /*el blanco es cada uno de los espacios donde va haber datos*/
+    margin: 20px; /*para agregar margenes o un espacio alrededor de la pagina*/
+}
+
+.personalData{
+    font-style: italic;
+    font-weight: bold;
+}
+
+.dates{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.pData{
+    margin-left: 80px ;
+}
+
+h1{
+    background-color: rgb(181, 179, 179); /*se le aplica un fondo al h1*/
+    color: #005677;
+    font-size: 35px;
+    letter-spacing: 10px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.separadores{
+    background-color: white;
+    height: 60px;
+}
+
+section p{
+    background-color: white;
+}
+
+h2{
+    background-color: rgb(181, 179, 179);
+    color: #005677;
+    font-style: 17px;
+    height: 30px;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+}
+
+/*Footer*/
+footer{
+    background-color: #005677;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 20px;
+    text-align: center;
+    text-transform: uppercase;
+}
